@@ -1,0 +1,10 @@
+{
+    "name": "bamazon",
+    "version": "1.0.0",
+    "dependencies": {
+        "colors": "^1.2.1",
+        "inquirer": "^5.2.0",
+        "mysql": "^2.15.0"
+    },
+    "license": "ISC"
+}
